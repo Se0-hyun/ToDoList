@@ -1,4 +1,4 @@
-# ToDoList
+# 오늘 하루를 더 알차게, MyDay
 
 
 ![MyDay_page-0001](https://github.com/2023MobileProgramming/ToDoList/assets/80439045/eed0c999-57c0-4bbb-8f59-21d9be7727d5)
